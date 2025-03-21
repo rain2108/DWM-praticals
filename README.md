@@ -1,1 +1,1 @@
-# DBMS-praticals
+# DWM-praticals
